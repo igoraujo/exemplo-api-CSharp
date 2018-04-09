@@ -12536,7 +12536,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fourt\\.nuget\\packages\\": {},
+    "C:\\Users\\Igor\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -12545,17 +12545,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\fourt\\source\\repos\\API\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Igor\\source\\repos\\exemploApiCSharp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\fourt\\source\\repos\\API\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\fourt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fourt\\source\\repos\\API\\API\\obj\\",
+      "projectPath": "C:\\Users\\Igor\\source\\repos\\exemploApiCSharp\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Igor\\source\\repos\\exemploApiCSharp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\fourt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12579,14 +12579,14 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "2.0",
-            "autoReferenced": true
-          },
           "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "2.0.6"
+            "version": "[2.0.6, )"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           }
         },
         "imports": [
