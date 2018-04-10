@@ -30,3 +30,4 @@ C:\Users\fourt\source\repos\API\exemploApiCSharp\API\obj\Debug\netcoreapp2.0\API
 C:\Users\fourt\source\repos\API\exemploApiCSharp\API\bin\Debug\netcoreapp2.0\API.pdb
 C:\Users\fourt\source\repos\API\exemploApiCSharp\API\obj\Debug\netcoreapp2.0\API.dll
 C:\Users\fourt\source\repos\API\exemploApiCSharp\API\obj\Debug\netcoreapp2.0\API.pdb
+C:\Users\fourt\source\repos\API\exemploApiCSharp\API\obj\Debug\netcoreapp2.0\API.csprojResolveAssemblyReference.cache

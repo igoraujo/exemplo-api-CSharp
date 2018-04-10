@@ -18,10 +18,10 @@ namespace API
 
         public void ConfigureServices(IServiceCollection services)
         {
-            var connectionString = Configuration["dbContextSettings:ConnectionString"];
+            string connectionString = Configuration["dbContextSettings:ConnectionString"];
             services.AddDbContext<Context>(opts => opts.UseNpgsql(connectionString)
             );
-            // Add framework services.
+            // Adiciona o framework services.
             services.AddMvc();
         }
 
