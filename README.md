@@ -7,7 +7,7 @@ ou em um **Server Windows** com **IIS**, sem a necessidade de adaptação de có
 ## Criação do Projeto 
 *New Project > ASP.NET Core Web Application > Name: "NomeDoProjeto" > Wev API*
 
-## Dependencias
+## Dependências
 Pesquisar no **Nuget package** a segunte dependencia do Postgres: "*Npgsql.EntityFrameworkCore.PostgreSQL*"
 
 ## Criando Pastas
@@ -72,4 +72,4 @@ Recomenda-se utilizar a ferramenta [POSTMAN](https://www.getpostman.com/), para 
 Para baixá-la, basta clicar no link no meio da acima.
 
 ## Considerações Finais
-* Apenas Ressaltando que todas as instruções dadas acima estão baseadas no projeto implementado deste repositório.
+* Apenas ressaltando que todas as instruções dadas acima estão baseadas no projeto implementado deste repositório.
