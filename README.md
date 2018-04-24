@@ -5,7 +5,7 @@ Este projeto foi criado no dotNetCore intencionalmente, para que a mesma aplica�
 ou em um **Server Windows** com **IIS**, sem a necessidade de adaptação de código.
 
 ## Criação do Projeto 
-*New Project > ASP.NET Core Web Application > Name: "NomeDoProjeto" > Wev API*
+*New Project > ASP.NET Core Web Application > Name: "NomeDoProjeto" > Web API*
 
 ## Dependências
 Pesquisar no **Nuget package** a segunte dependencia do Postgres: "*Npgsql.EntityFrameworkCore.PostgreSQL*"
